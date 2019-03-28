@@ -1,3 +1,3 @@
-# NextPermutation-2.0
+# NextPermutation
 
 Next permutation on subsegment using decart tree
